@@ -1,0 +1,5 @@
+com\smartcampus\analytics\repository\StudentRepository.class
+com\smartcampus\analytics\model\Student.class
+com\smartcampus\analytics\controller\StudentController.class
+com\smartcampus\analytics\service\ScoringEngineService.class
+com\smartcampus\analytics\SmartCampusApplication.class
